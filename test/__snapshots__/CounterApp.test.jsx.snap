@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <App /> esta prueba no falla 1`] = `
+<div>
+  <div>
+    Holi
+  </div>
+</div>
+`;
